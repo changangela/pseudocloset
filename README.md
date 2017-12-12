@@ -11,20 +11,20 @@
 #### Laundry alerts
 You are alerted when your clothes are getting dirty. You can then add them to the virtual laundry basket, wash them, and render them wearable once more. 
 
-![alt text](img/homescreen.png =250x)
+![alt text](img/homescreen.png)
 
 #### Clothing view
 You can view each individual item of clothing that you own, or browse by category. You will also receive statistical data such as the number of times the item has been worn, or how old it is. We wouldn't want some items of clothing to feel left out.
 
-![alt text](img/itemview.png =250x)
+![alt text](img/itemview.png)
 
 #### Closet view
 Not only can you view individual items, you can also create and view collections. These collections are outfit combos that you have planned to wear to wear and grouped together ahead of time.
 
-![alt text](img/closet.png =250x)
+![alt text](img/closet.png)
 
 #### Personalize
 Feel free to personalize, edit, and delete outfit, and clothing items whenever you want. 
 
-![alt text](img/addoutfit.png =250x)
+![alt text](img/addoutfit.png)
 
